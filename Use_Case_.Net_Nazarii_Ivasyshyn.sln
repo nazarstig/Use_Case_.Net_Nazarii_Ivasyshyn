@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use_Case_.Net_Nazarii_Ivasyshyn", "Use_Case_.Net_Nazarii_Ivasyshyn\Use_Case_.Net_Nazarii_Ivasyshyn.csproj", "{807A9618-27ED-4B94-838B-3BB5B5A35127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use_Case_.Net_Nazarii_Ivasyshyn.Tests", "Use_Case_.Net_Nazarii_Ivasyshyn.Tests\Use_Case_.Net_Nazarii_Ivasyshyn.Tests.csproj", "{68E99017-6643-4AFF-AB0C-E6B39CFF4DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807A9618-27ED-4B94-838B-3BB5B5A35127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807A9618-27ED-4B94-838B-3BB5B5A35127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807A9618-27ED-4B94-838B-3BB5B5A35127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807A9618-27ED-4B94-838B-3BB5B5A35127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E99017-6643-4AFF-AB0C-E6B39CFF4DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E99017-6643-4AFF-AB0C-E6B39CFF4DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E99017-6643-4AFF-AB0C-E6B39CFF4DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E99017-6643-4AFF-AB0C-E6B39CFF4DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD75131C-3CAA-4025-82A2-C51590859A79}
+	EndGlobalSection
+EndGlobal
